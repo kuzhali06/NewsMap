@@ -1,0 +1,3 @@
+"""
+NewsMap Test Suite Package.
+"""

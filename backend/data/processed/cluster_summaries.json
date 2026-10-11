@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "algorithm": "KMeans",
+    "n_clusters": 5,
+    "total_articles": 2123,
+    "n_features": 5000,
+    "inertia": 1977.9052,
+    "n_iter": 8,
+    "random_state": 42
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "article_count": 501,
+      "percentage_of_corpus": 23.6,
+      "top_terms": [
+        {
+          "term": "game",
+          "weight": 0.035398
+        },
+        {
+          "term": "win",
+          "weight": 0.032139
+        },
+        {
+          "term": "t",
+          "weight": 0.030296
+        },
+        {
+          "term": "cup",
+          "weight": 0.028455
+        },
+        {
+          "term": "england",
+          "weight": 0.027327
+        },
+        {
+          "term": "match",
+          "weight": 0.026577
+        },
+        {
+          "term": "players",
+          "weight": 0.02597
+        },
+        {
+          "term": "team",
+          "weight": 0.025364
+        },
+        {
+          "term": "play",
+          "weight": 0.025364
+        },
+        {
+          "term": "coach",
+          "weight": 0.024633
+        }
+      ],
+      "representative_articles": [
+        {
+          "article_id": 858,
+          "distance_to_centroid": 0.929031,
+          "snippet": "sella wants michalak recall former france centre philippe sella believes coach bernard laporte must recall frederic michalak to give his side any chan..."
+        },
+        {
+          "article_id": 228,
+          "distance_to_centroid": 0.93057,
+          "snippet": "all black magic new zealand rugby playing colours all black the haka and more the all blacks charles john munro discovered rugby at london s christ co..."
+        },
+        {
+          "article_id": 1921,
+          "distance_to_centroid": 0.932852,
+          "snippet": "holmes back on form in birmingham double olympic champion kelly holmes was back to her best as she comfortably won the 1 000m at the norwich union bir..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "article_count": 503,
+      "percentage_of_corpus": 23.69,
+      "top_terms": [
+        {
+          "term": "company",
+          "weight": 0.032229
+        },
+        {
+          "term": "1",
+          "weight": 0.03029
+        },
+        {
+          "term": "market",
+          "weight": 0.030244
+        },
+        {
+          "term": "year",
+          "weight": 0.030172
+        },
+        {
+          "term": "growth",
+          "weight": 0.029735
+        },
+        {
+          "term": "firm",
+          "weight": 0.028461
+        },
+        {
+          "term": "shares",
+          "weight": 0.027724
+        },
+        {
+          "term": "economy",
+          "weight": 0.027293
+        },
+        {
+          "term": "bank",
+          "weight": 0.025508
+        },
+        {
+          "term": "2004",
+          "weight": 0.024357
+        }
+      ],
+      "representative_articles": [
+        {
+          "article_id": 279,
+          "distance_to_centroid": 0.930734,
+          "snippet": "soaring oil hits world economy the soaring cost of oil has hit global economic growth although world s major economies should weather the storm of pri..."
+        },
+        {
+          "article_id": 1080,
+          "distance_to_centroid": 0.933443,
+          "snippet": "ore costs hit global steel firms shares in steel firms have dropped worldwide amid concerns that higher iron ore costs will hit profit growth shares i..."
+        },
+        {
+          "article_id": 1496,
+          "distance_to_centroid": 0.933658,
+          "snippet": "asian quake hits european shares shares in europe s leading reinsurers and travel firms have fallen as the scale of the damage wrought by tsunamis acr..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "article_count": 363,
+      "percentage_of_corpus": 17.1,
+      "top_terms": [
+        {
+          "term": "film",
+          "weight": 0.061148
+        },
+        {
+          "term": "awards",
+          "weight": 0.034392
+        },
+        {
+          "term": "best",
+          "weight": 0.033292
+        },
+        {
+          "term": "award",
+          "weight": 0.031838
+        },
+        {
+          "term": "music",
+          "weight": 0.029213
+        },
+        {
+          "term": "star",
+          "weight": 0.028218
+        },
+        {
+          "term": "actor",
+          "weight": 0.027423
+        },
+        {
+          "term": "tv",
+          "weight": 0.026125
+        },
+        {
+          "term": "band",
+          "weight": 0.02555
+        },
+        {
+          "term": "films",
+          "weight": 0.02544
+        }
+      ],
+      "representative_articles": [
+        {
+          "article_id": 1500,
+          "distance_to_centroid": 0.915332,
+          "snippet": "aviator wins top globes accolades the aviator has been named best film at the golden globe awards with its star leonardo dicaprio named best actor hol..."
+        },
+        {
+          "article_id": 902,
+          "distance_to_centroid": 0.918842,
+          "snippet": "eastwood s baby scoops top oscars clint eastwood s million dollar baby beat martin scorsese s the aviator to the top awards at the oscars on sunday th..."
+        },
+        {
+          "article_id": 1616,
+          "distance_to_centroid": 0.924484,
+          "snippet": "scissor sisters triumph at brits us band scissor sisters led the winners at the uk music industry s brit awards walking off with three prizes the flam..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "article_count": 393,
+      "percentage_of_corpus": 18.51,
+      "top_terms": [
+        {
+          "term": "mr",
+          "weight": 0.056784
+        },
+        {
+          "term": "labour",
+          "weight": 0.049271
+        },
+        {
+          "term": "election",
+          "weight": 0.044122
+        },
+        {
+          "term": "government",
+          "weight": 0.043684
+        },
+        {
+          "term": "blair",
+          "weight": 0.040983
+        },
+        {
+          "term": "party",
+          "weight": 0.040975
+        },
+        {
+          "term": "minister",
+          "weight": 0.03566
+        },
+        {
+          "term": "people",
+          "weight": 0.029375
+        },
+        {
+          "term": "mr blair",
+          "weight": 0.028492
+        },
+        {
+          "term": "tory",
+          "weight": 0.027467
+        }
+      ],
+      "representative_articles": [
+        {
+          "article_id": 1554,
+          "distance_to_centroid": 0.902796,
+          "snippet": "blair pledges unity to labour mps tony blair has sought to reassure labour backbenchers that nothing will stand in the way of the party s bid for a th..."
+        },
+        {
+          "article_id": 1498,
+          "distance_to_centroid": 0.902939,
+          "snippet": "lib dems unveil election slogan the liberal democrats will present themselves as the real alternative in the forthcoming general election campaign cha..."
+        },
+        {
+          "article_id": 1360,
+          "distance_to_centroid": 0.905323,
+          "snippet": "howard taunts blair over splits tony blair s feud with gordon brown is damaging the way the uk is governed tory leader michael howard has claimed in a..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "article_count": 363,
+      "percentage_of_corpus": 17.1,
+      "top_terms": [
+        {
+          "term": "people",
+          "weight": 0.040352
+        },
+        {
+          "term": "technology",
+          "weight": 0.037743
+        },
+        {
+          "term": "users",
+          "weight": 0.035963
+        },
+        {
+          "term": "use",
+          "weight": 0.030954
+        },
+        {
+          "term": "software",
+          "weight": 0.029614
+        },
+        {
+          "term": "mobile",
+          "weight": 0.029085
+        },
+        {
+          "term": "digital",
+          "weight": 0.02853
+        },
+        {
+          "term": "computer",
+          "weight": 0.028112
+        },
+        {
+          "term": "online",
+          "weight": 0.027277
+        },
+        {
+          "term": "net",
+          "weight": 0.026153
+        }
+      ],
+      "representative_articles": [
+        {
+          "article_id": 150,
+          "distance_to_centroid": 0.918927,
+          "snippet": "the future in your pocket if you are a geek or gadget fan the next 12 months look like they are going to be a lot of fun the relentless pace of develo..."
+        },
+        {
+          "article_id": 229,
+          "distance_to_centroid": 0.920107,
+          "snippet": "tv s future down the phone line internet tv has been talked about since the start of the web as we know it now but any early attempts to do it the uk ..."
+        },
+        {
+          "article_id": 463,
+          "distance_to_centroid": 0.922732,
+          "snippet": "musical future for phones analyst bill thompson has seen the future and it is in his son s hands i bought my son max a 3g phone partly because they ar..."
+        }
+      ]
+    }
+  ]
+}
